@@ -1,0 +1,33 @@
+﻿* Wireframes Document
+
+
+* Overview 
+- Objective of the mobile application 
+- Audience to be targeted and user needs
+
+
+* Wireframes 
+# Screen 1: Game Board
+- Display a 3x3 grid for Tic-Tac-Toe
+- each cell ought to be clickable
+- Indicate the current player's turn
+
+
+# Screen 2: Outcome Screen 
+- Show the outcome message (win/draw)
+- Added a button option while it is show win/draw (New Game)
+
+* Navigation Flow
+- Clicking a cell on the game board transitions to the result screen if the game ends
+- The game is reset when "New Game" is clicked on the result screen.
+
+
+* Visual Design Standards
+- Used a linear gradient background
+- Stylish cell design with hover effect
+- Vibrant result screen featuring a call-to-action button 
+
+
+* Iteration and Feedback 
+- Gather feedback from relevant parties 
+- Iterate based on feedback

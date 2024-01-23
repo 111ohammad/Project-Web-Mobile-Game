@@ -1,0 +1,36 @@
+﻿* Mobile Application Development
+
+# Requirements: 
+- Create a Tic-Tac-Toe game that is responsive to mobile devices 
+- Integrate player turn indication 
+- Show the result on a separate screen 
+- Include a "New Game" button.
+
+# Technology Stack: 
+- HTML, CSS and JavaScript
+- Responsive design concepts
+
+# Development: 
+- Following the wireframes and design guidelines
+- Applied the rules of the game called Tic Tac Toe.
+- Creating a visually appealing user interface
+
+# User Interface: 
+- Adapting the design to suit various screen sizes is the objective.
+- a visually appealing cell design with interactive feedback 
+- a clear indication of player turns
+
+# Testing: 
+- For game logic, unit tests
+- Testing responsiveness across various devices
+- Functionality acceptance testing by users
+
+# Deployment:
+- The TicTacToe program along with all its associated files will be made accessible
+  through GitHub. This approach will enable users to securely download the necessary files and
+  run them on their local machines.
+- Also, Test the deployment for accessibility by hosting on a web server and deploying as a mobile application.
+
+# Maintenance: 
+- Resolve any issues that arise after launch
+- taking user input into account for upcoming updates

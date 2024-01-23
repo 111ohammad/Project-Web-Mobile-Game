@@ -1,0 +1,18 @@
+﻿* Test Plan
+
+# Key Performance Areas:
+1. Logic of Games
+   - Verify proper player turn management
+   - Check the win/draw parameters.
+
+2. Adaptive Design
+    - Examine across a range of gadgets and screen dimensions
+    - Confirm a consistent user interface.
+
+3. User Acceptance
+    - Check across various browsers to ensure all features 
+      function as expected
+
+4. Performance
+    - Assess load times under various network scenarios
+    - Keep an eye on how resources are used while playing
